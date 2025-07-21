@@ -1,7 +1,7 @@
 # ✅ Month 1 Checklist – ML Foundations   (start date : 21/07/2025     expected end date : 21/08/2025)
 
 ### WEEK 1: Python, Git, and ML Basics
-- [ ] Install Jupyter, Pandas, NumPy, Git
+- [✅] Install Jupyter, Pandas, NumPy, Git
 - [ ] Learn Git basics (commit, push, pull)
 - [ ] Write intro ML notes (types of ML)
 - [ ] Practice Pandas (Series, DataFrames)
